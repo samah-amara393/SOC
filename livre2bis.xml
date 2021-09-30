@@ -1,0 +1,7 @@
+<livre>
+ <chapitre titre="Chapitre1">
+ <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+ <paragraphe><![CDATA[<element id="10">&gt;</element>]]></paragraphe>
+ </chapitre>
+ </section>
+</livre>
